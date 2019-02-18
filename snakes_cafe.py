@@ -1,7 +1,7 @@
 appetizers = ['Wings', 'Tots', 'Meatballs']
 entree = ['Fish and Chips', 'Goulash', 'Lasagna']
-desserts = ['Spaghettie eis', 'Lava Cake', 'Warm Cookies']
-drinks = ['tea', 'coffee', 'water']
+desserts = ['Spaghetti Eis', 'Lava Cake', 'Warm Cookies']
+drinks = ['Tea', 'Coffee', 'Water']
 
 
 
